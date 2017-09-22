@@ -43,7 +43,7 @@ public class Librarywindow extends JFrame {
 		
 		JScrollPane scrollPane = new JScrollPane();
 		contentPane.add(scrollPane, BorderLayout.CENTER);
-		System.out.println("Github test incomming!");
+		System.out.println("Github test incomming!"); // push this?
 	}
 
 }
